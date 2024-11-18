@@ -1,3 +1,7 @@
+# Webpages
+.node_modules
+
+# Android Apps
 *.iml
 .gradle
 /local.properties
